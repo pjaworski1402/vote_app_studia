@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "is_opens",
+  "info": {
+    "singularName": "is-open",
+    "pluralName": "is-opens",
+    "displayName": "isOpen",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "isOpen": {
+      "type": "boolean",
+      "required": true
+    }
+  }
+}
